@@ -151,8 +151,9 @@ Publish the website in the given URL.
 ```
 
 ## OUTPUT:
-![397300097-bdd93633-e840-4671-8556-ad6d963932b1](https://github.com/user-attachments/assets/0fceae2f-5aec-4924-9428-95d303f66c33)
-![397300096-85e68e8e-b19d-44a7-ac3b-d2392e477ce0](https://github.com/user-attachments/assets/36dc43d3-6c48-4855-970a-d6e0784277d3)
+![446473927-0fceae2f-5aec-4924-9428-95d303f66c33](https://github.com/user-attachments/assets/e9c71215-6cab-416c-a15d-a4a2c475ae80)
+![446474065-36dc43d3-6c48-4855-970a-d6e0784277d3](https://github.com/user-attachments/assets/15085fe1-e673-44c6-a802-67f3c303cc43)
+
 ![397300261-bd6c2c14-b7c0-417d-9b7b-3f4a3c9fae46](https://github.com/user-attachments/assets/478c08f6-fd9c-479b-82ab-876c8f8c3de4)
 
 ## RESULT:
